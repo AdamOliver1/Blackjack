@@ -1,0 +1,6 @@
+[submodule "BlackJackClient"]
+	path = BlackJackClient
+	url = https://github.com/AdamOliver1/BlackJackClient.git
+[submodule "BlackjackServer"]
+	path = BlackjackServer
+	url = https://github.com/AdamOliver1/BlackjackServer.git
