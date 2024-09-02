@@ -1,6 +1,6 @@
 # BlackJack Game
 
-Welcome to our BlackJack Game, a full-stack application consisting of a server-side application and a client-side application. The project has been divided into two separate repositories, included as Git submodules:
+Welcome to my BlackJack Game, a full-stack application consisting of a server-side application and a client-side application. The project has been divided into two separate repositories, included as Git submodules:
 
 1. **BlackJackServer**: The server-side application built with .NET 6. It manages multiple game sessions and can be run using any .NET-supporting platform, not just Visual Studio 2022.
 2. **BlackJackClient**: The client-side application that offers a smooth, interactive gaming experience and allows joining live multiplayer games.
